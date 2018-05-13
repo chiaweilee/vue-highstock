@@ -1,0 +1,19 @@
+{
+  "name": "vue-highstock",
+  "version": "0.0.1",
+  "description": "highstock/highcharts for vue2",
+  "main": "highstock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/vue-highstock.git"
+  },
+  "author": "+v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/vue-highstock/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/vue-highstock#readme"
+}
