@@ -1,4 +1,7 @@
 # vue-highstock
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/vue-highstock.svg)](https://greenkeeper.io/)
+
 highstock (or highcharts) component for vue2
 
 ## Install
